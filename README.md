@@ -1,14 +1,6 @@
+## about this project
 
-> Open this page at [https://k3soft-hard.github.io/neopixel-project-v104-forever-build-2/](https://k3soft-hard.github.io/neopixel-project-v104-forever-build-2/)
-
-## Use as Extension
-
-This repository can be added as an **extension** in MakeCode.
-
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/k3soft-hard/neopixel-project-v104-forever-build-2** and import
+this project is for neopixel and display. It can be controlled via the second microbit. Some effects use a microphone.
 
 ## Edit this project
 
